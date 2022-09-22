@@ -3,7 +3,7 @@ Simple Python script that allows you to install TxAdmin on a Windows based syste
 
 ## Installation
 
->Just download the [EXE]([https://support.west-wind.com](https://github.com/NexusAPI/fivem-windows-installer/releases/tag/release))]() and execute it or execute the Python File.
+>Just download the [EXE](./releases) and execute it or download and execute the Python File.
 >
 > * install FiveM  -> to setup your server with TX-Admin
 > * [IN PROGRESS] -> Update server (tx-version)
