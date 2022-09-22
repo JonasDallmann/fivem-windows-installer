@@ -8,5 +8,7 @@ Simple Python script that allows you to install TxAdmin on a Windows based syste
 > * install FiveM  -> to setup your server with TX-Admin
 > * [IN PROGRESS] -> Update server (tx-version)
 
+>* NOTE: I assume no liability in any case!
+
 ## ❗LICENSE:
 This software is distributed under the [ license](/LICENSE).
